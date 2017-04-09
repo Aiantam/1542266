@@ -1,0 +1,7 @@
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\bin\Debug\1542266_CowImport.exe.config
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\bin\Debug\1542266_CowImport.exe
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\bin\Debug\1542266_CowImport.pdb
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\obj\Debug\1542266_CowImport.csprojResolveAssemblyReference.cache
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\obj\Debug\1542266_CowImport.exe
+C:\Users\ng.phuocloc\Downloads\1542266_CowImport\1542266_CowImport\obj\Debug\1542266_CowImport.pdb
